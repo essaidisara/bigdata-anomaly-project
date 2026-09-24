@@ -1,0 +1,5 @@
+docker/access_log_Aug95
+*.log
+checkpoints/
+*.pyc
+__pycache__/

@@ -1,0 +1,7 @@
+SECRET_KEY = "SUPER_SECRET_KEY_CHANGE_ME_123456789"
+
+FEATURE_FLAGS = {
+    "ENABLE_TEMPLATE_PROCESSING": True,
+}
+
+SQLALCHEMY_DATABASE_URI = "sqlite:////app/superset_home/superset.db"
