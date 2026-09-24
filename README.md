@@ -105,3 +105,5 @@ Apache NiFi 1.25.0 · Apache Kafka (image confluentinc 7.6.0) · Apache Spark 3.
 
 <img width="887" height="355" alt="dashboard 2" src="https://github.com/user-attachments/assets/da4f234e-33ec-4bdc-88ae-69e446b11336" />
 
+<img width="724" height="320" alt="image" src="https://github.com/user-attachments/assets/5a5f9156-4728-459f-9e7e-6de21a6c4b7e" />
+
