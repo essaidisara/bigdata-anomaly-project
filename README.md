@@ -99,4 +99,9 @@ Apache NiFi 1.25.0 · Apache Kafka (image confluentinc 7.6.0) · Apache Spark 3.
 (Metastore + HiveServer2, backend PostgreSQL) · Docker / Docker Compose
 
 
+<img width="731" height="317" alt="dashbord nifi-big-data" src="https://github.com/user-attachments/assets/593c6e8e-55cb-40a8-91ef-9002b527e4e5" />
+
+<img width="1725" height="750" alt="image" src="https://github.com/user-attachments/assets/f91c22e3-5eb3-4216-a95c-4e57269f0c7e" />
+
+<img width="887" height="355" alt="dashboard 2" src="https://github.com/user-attachments/assets/da4f234e-33ec-4bdc-88ae-69e446b11336" />
 
